@@ -1,0 +1,14 @@
+myjson = `{
+    "name" : "sayeed",
+    "GPA" : 4.35,
+    "IsAdmin" : false,
+    "license" : null,
+    "shopItem" : ["banana", "fish", "egg"]
+}
+`;
+
+//press enter.
+
+JSON.parse(myjson);
+
+//press enter.

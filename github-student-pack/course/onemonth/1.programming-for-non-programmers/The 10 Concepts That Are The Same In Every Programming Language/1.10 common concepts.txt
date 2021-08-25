@@ -1,0 +1,18 @@
+The 10 Concepts That Are The Same In Every Programming Language
+
+1. Event
+2. Comment  
+3. Print
+4. Variables 
+5. Data Types
+    1/ primitive data-type
+    2/ object
+
+6. Conditionals
+7. functions
+8. Arrays
+9. Concatenation
+    // add two things ex. "sayeed"+"hasan"
+10.Debugging
+
+* JavaScript enables you to respond to events using Event Handlers

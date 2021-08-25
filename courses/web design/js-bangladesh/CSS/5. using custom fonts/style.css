@@ -1,0 +1,8 @@
+@font-face {
+    font-family: SilentReaction;
+    src: url(./fonts/SilentReaction.ttf);
+}
+h2{
+    font-family: SilentReaction;
+    font-size: 3rem;
+}

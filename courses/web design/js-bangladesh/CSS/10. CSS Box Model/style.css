@@ -1,0 +1,18 @@
+/*
+    1. Inline VS BLock
+    2. Box Model
+    3. Border 
+    4. Padding
+    5. Marzine
+    6. Box Sizing
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    display: inline-block;
+}

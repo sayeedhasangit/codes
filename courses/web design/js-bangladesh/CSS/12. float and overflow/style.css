@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clearfix{
+    clear:both;
+}
+.padding{
+    padding: 8px;
+}
+
+.main-content{
+    margin: 20px;
+}
+
+img{
+    width: 360px;
+    float: right;
+    margin: 0px 20px 20px 20px;
+}
+
+h2{
+    font-family: 'Marck Script', cursive;
+    font-size: 60px;
+    background-color: #55efc4;
+    overflow: hidden;
+
+    margin-bottom: 14px;
+
+}
+p{
+    font-size: 1.4rem;
+    background-color: #81ecec;
+    overflow: hidden;
+}
+.second__paragraph{
+    margin-top: 10px;
+}
+.description{
+    background-color:#74b9ff;
+}

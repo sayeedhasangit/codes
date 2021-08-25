@@ -1,0 +1,26 @@
+/*
+Decendent Selector (space)
+Child Selector (>)
+Adjacent sibling Selector (+)
+General sibling selector (~)
+*/
+
+div p {
+    color: red;        /* child, and grand-child select all */
+}
+
+.parent > p {           /* direct child */
+    color: gray;
+}
+
+h1 + p {
+    color: purple;    /* immediately grave same level only one next tag (ex: p tag) */
+}
+
+
+h1 ~ p {
+    color: orangered;  /* grave same level all (ex: p tag) */
+}
+
+
+/* TODO: same level called (sibling) not (child)  */

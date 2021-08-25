@@ -1,0 +1,10 @@
+## Software Engineering different field
+
+
+## Full-Stack software engineer
+1. Front-end engineer
+2. Back-end engineer
+3. Full-Stack engineer
+4. Software engineering in test (QA)
+5. DevOps engineer
+ 
