@@ -1,15 +1,18 @@
 ## Software Engineering different field
-1. web application development
+1. web application development *
 2. Mobile Application development (android and ios)
 3. desktop application development
 4. game development
-6. Console application development
-7. 
+5. Console application development
+6. Artificial development 
+7. Data mining   (Data Science)
+8. Database development  (Data Science)
+
 
 ## Software engineer rules
 1. Front-end engineer
 2. Back-end engineer
-3. Full-Stack engineer
+3. Full-Stack engineer *
 4. Software engineering in test (QA)
 5. DevOps engineer
 6. Security engineer 
